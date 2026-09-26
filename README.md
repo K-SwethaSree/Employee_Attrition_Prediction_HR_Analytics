@@ -82,3 +82,19 @@ The app utilizes a custom styling sheet (`assets/custom.css`) to enforce premium
 - **Glassmorphism Containers** (`.glass-card`): Translucent borders, backdrop filters, and hover offsets.
 - **Visual Alert Channels**: Linear-gradient left borders mapping metrics directly to organization status states (`success` green, `warning` amber, `danger` red).
 - **Badge Indicators**: Risk & Sentiment tags styled using custom paddings and borders for tables and feeds.
+
+---
+
+## Result
+
+<img width="1907" height="978" alt="Screenshot 2026-09-26 143639" src="https://github.com/user-attachments/assets/d4dd9a8f-d9bf-441e-8a77-f4dd0526510a" />
+
+<img width="1903" height="1022" alt="Screenshot 2026-09-26 143805" src="https://github.com/user-attachments/assets/6ba99baf-b393-4bdb-b452-55dd2fdefd43" />
+
+<img width="1905" height="1008" alt="Screenshot 2026-09-26 143842" src="https://github.com/user-attachments/assets/81056b71-f0d2-4570-8b1c-b9791df5dcee" />
+
+<img width="1903" height="907" alt="Screenshot 2026-09-26 143904" src="https://github.com/user-attachments/assets/32d66823-e33c-4cad-85cd-fd740c236557" />
+
+<img width="1877" height="952" alt="Screenshot 2026-09-26 143929" src="https://github.com/user-attachments/assets/fc648eaf-4e09-4e21-a20a-0194784eb979" />
+
+---
